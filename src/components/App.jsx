@@ -2,7 +2,7 @@ import React from 'react';
 
 import '../styles/components/app.css';
 
-function App() {
+const App = () => {
   return (
     <div>
       <h1>Hola mundo</h1>
